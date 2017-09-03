@@ -1,0 +1,22 @@
+PODS:
+  - AsyncSwift (2.0.1)
+  - PKHUD (4.2.3)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - AsyncSwift (~> 2.0)
+  - PKHUD (~> 4.0)
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  AsyncSwift: 632138e42ead868b53c745fcde9bf733ce1527ad
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: 3f2eeb7144d3ef51f041a9f4e0794bcb7b79e825
+
+COCOAPODS: 1.3.1

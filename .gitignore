@@ -1,0 +1,16 @@
+# xcode noise
+build/*
+integration/tmp/*
+*.perspective
+*.perspectivev3
+*.mode1
+*.mode2v3
+*.mode1v3
+xcuserdata
+Snapshots
+
+# cocoapods noise
+Pods
+
+# osx noise
+.DS_Store
